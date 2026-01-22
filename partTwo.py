@@ -1,7 +1,7 @@
 import math  
 
 def main():
-#TO DO  
+ A = int(input("Enter A: "))
 
 def pythag(A,B):
 #TO DO  
